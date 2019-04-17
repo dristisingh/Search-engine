@@ -3,7 +3,7 @@
 
 # About
 
-It is a search engine built using PHP and MySql.
+It is a search engine built using PHP and MySql.<br>
 It fetches data from the Mysql database.
 The site details can be inserted into database which can then be fetched when a user fires a query.
 Creation of search driven dynamic pages.
